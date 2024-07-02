@@ -18,7 +18,7 @@ Faz parte [desse desafio](https://github.com/simplify-tec/desafio-junior-backend
 ```Spring MVC```
 ```Spring Data JPA```
 ```SpringDoc OpenAPI 3```
-```MySQL]```
+```MySQL```
 
 ## Práticas adotadas
 

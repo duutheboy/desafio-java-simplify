@@ -21,7 +21,7 @@ Faz parte [desse desafio](https://github.com/simplify-tec/desafio-junior-backend
 
 ## Práticas adotadas
 
-```SOLID```, ```DRY```, ```YAGNI```, ```KISS```
+```SOLID```,
 ```API REST```
 ```Consultas com Spring Data JPA```
 ```Injeção de Dependências```

@@ -17,7 +17,6 @@ Faz parte [desse desafio](https://github.com/simplify-tec/desafio-junior-backend
 ```Spring Boot```
 ```Spring MVC```
 ```Spring Data JPA```
-```SpringDoc OpenAPI 3```
 ```MySQL```
 
 ## Práticas adotadas
@@ -27,7 +26,6 @@ Faz parte [desse desafio](https://github.com/simplify-tec/desafio-junior-backend
 ```Consultas com Spring Data JPA```
 ```Injeção de Dependências```
 ```Tratamento de respostas de erro```
-```Geração automática do Swagger com a OpenAPI 3```
 
 ## Como Executar
 
